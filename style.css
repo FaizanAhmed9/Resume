@@ -48,7 +48,7 @@ html{
 .logo{
   width: 44px;
   height: 32px;
-  background-image: url(../images/white-logo.png);
+  background-image: url(white-logo.png);
   background-size: contain;
 }
 
@@ -90,7 +90,7 @@ html{
 }
 
 .sticky .logo{
-  background-image: url("E:/GITHUB PROFILE/black-logo.png");
+  background-image: url("black-logo.png");
 }
 
 .sticky .navbar-menu a{
@@ -104,7 +104,7 @@ html{
 #home{
   height: 100vh;
   min-height: 500px;
-  background: url("E:/GITHUB PROFILE/bg.jpg") no-repeat center;
+  background: url("bg.jpg") no-repeat center;
   background-size: cover;
   background-attachment: fixed;
 }
@@ -128,7 +128,7 @@ html{
 }
 
 #home .content h1::after{
-  content: "Raghavendra";
+  content: "Faizan Ahmed";
   animation: textanim 10s linear infinite;
 }
 
@@ -140,7 +140,7 @@ html{
     content: "A Programmer";
   }
   75%{
-    content: "A Embedded Developer";
+    content: "Technical Content Creator";
   }
 }
 
@@ -505,7 +505,7 @@ section.dark .section-title::after{
 }
 
 footer{
-  background: url("E:/GITHUB PROFILE/bg.jpg") no-repeat center;
+  background: url("bg.jpg") no-repeat center;
   color: #fff;
   padding: 80px 0;
   text-align: center;
